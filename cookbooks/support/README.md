@@ -1,0 +1,1 @@
+Just add's some stuff custom to the passbook vm
